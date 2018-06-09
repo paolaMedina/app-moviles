@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "71214508396",
+    "firebase_url": "https://fitnessgoals-20e58.firebaseio.com",
+    "project_id": "fitnessgoals-20e58",
+    "storage_bucket": "fitnessgoals-20e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71214508396:android:8b3922b4cf03be38",
+        "android_client_info": {
+          "package_name": "com.example.fitnessgoals.fitnessgoals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71214508396-8fmm458o5r8s5r2qmj9dl4cntgqc0t1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitnessgoals.fitnessgoals",
+            "certificate_hash": "380f4559a9390eeb2264ef4a34f3bec8c9e0e4eb"
+          }
+        },
+        {
+          "client_id": "71214508396-n118hht2bhekkc54139jndp9iseiukm0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "71214508396-n118hht2bhekkc54139jndp9iseiukm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzkE_5Yx0F_aWsUQzmSLryKjRMUU2EyWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71214508396-n118hht2bhekkc54139jndp9iseiukm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

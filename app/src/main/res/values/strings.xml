@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FitnessGoals</string>
+    <string name="enter_email">Ingresar Email</string>
+    <string name="enter_password">Ingresar Contraseña</string>
+    <string name="remember_password"><u><b><i>Olvide mi contraseña</i></b></u> </string>
+    <string name="login">LOGIN</string>
+
+</resources>
